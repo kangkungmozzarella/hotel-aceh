@@ -319,10 +319,3 @@ php artisan view:clear
 Sistem ini dikembangkan untuk keperluan penelitian akademik di Universitas Malikussaleh.
 
 ---
-
-## 📞 Kontak
-
-**Ivan Ghazi**  
-Program Studi Teknik Informatika  
-Fakultas Teknik, Universitas Malikussaleh  
-NIM: 200170241
